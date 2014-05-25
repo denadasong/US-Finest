@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">US Finest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="president_flag">Presidential Standard</string>
+    <string name="new_game">New Game</string>
+    <string name="high_scores">High Scores</string>
+    <string name="president_image">President Image</string>
+    <string name="empty_list">No high scores..</string>
+    <string name="share">Share</string>
+    <string name="app_info">Info</string>
+    <string name="app_info_text">100 seconds, 43 presidents, 10 seconds per question. Each correct answer gives you 5 points plus additional points depending on time left for that question (3 seconds left = 3 additional points). Each wrong answer gives you -3 points. \n\nYou think you know the US presidents? Show your knowledge!</string>
+    <string name="send_info">Send app info via</string>
+    <string name="game_result">Congratulations! Your score is %1$s.</string>
+    <string name="delete_high_scores">Delete all</string>
+    <string name="delete_high_scores_dialog">Are you sure you want to delete all high scores?</string>
+    
+    <string name="app_name_share">US Finest Quiz</string>
+    <string name="app_share_text1">How cool is it to be the US history whiz?</string>
+    <string name="app_share_text2">Very cool, since knowledge is power!</string>
+    <string name="app_share_text3">Show off your talent with the US Finest.</string>
+    <string name="app_share_text4">You definitely need to take this Quiz if you are into the US presidents. The quiz enables you to test your knowledge about the US presidents and history overall, making you ready for bigger challenges.</string>
+    <string name="app_share_text5">Download US Finest Android app from Goole Play and try it!</string>
+    
+    
+    
+</resources>
